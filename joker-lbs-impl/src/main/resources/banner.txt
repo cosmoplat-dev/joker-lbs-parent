@@ -1,0 +1,17 @@
+${AnsiColor.BRIGHT_YELLOW}
+  ,----..                            
+ /   /   \                           
+|   :     :                          
+.   |  ;. /  ,--,  ,--,   .--.--.    
+.   ; /--`   |'. \/ .`|  /  /    '   
+;   | ;  __  '  \/  / ; |  :  /`./   
+|   : |.' .'  \  \.' /  |  :  ;_     
+.   | '_.' :   \  ;  ;   \  \    `.  
+'   ; : \  |  / \  \  \   `----.   \ 
+'   | '/  .'./__;   ;  \ /  /`--'  / 
+|   :    /  |   :/\  \ ;'--'.     /  
+ \   \ .'   `---'  `--`   `--'---'   
+  `---`                    
+
+${AnsiColor.BRIGHT_RED}
+Spring Boot Version: ${spring-boot.version}${spring-boot.formatted-version}  
