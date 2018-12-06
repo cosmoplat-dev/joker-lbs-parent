@@ -27,6 +27,7 @@
 	</properties>
 
 	<dependencies>
+		<!-- api -->
 		<dependency>
 			<groupId>com.joker.lbs</groupId>
 			<artifactId>joker-lbs-api</artifactId>
